@@ -1,6 +1,5 @@
 // Copyright (c) 2017, ofo Inc.
 // All rights reserved.
-// Author: wuzhibin@ofo.com.
 // Created on 2017/12/7 上午10:33.
 //
 
